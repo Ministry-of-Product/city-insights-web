@@ -32,6 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+background_image_url: /assets/images/background.png
+porthole_background_image_url: /assets/images/porthole_background.png
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
