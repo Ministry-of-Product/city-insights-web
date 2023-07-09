@@ -4,14 +4,21 @@
 
 layout: home
 ---
-<p/>
 
 # City Insights : Big Data for Big Decisions
-
+<p/>{:.porthole style="height:300px;"}
 
 ## Contributors
-Matt Paulin: [LinkedIn](https://www.linkedin.com/in/mattpaulin/){:target="_blank"}{:rel="noopener noreferrer"} 
+<div class=".facecontainer">
+  <div class="facecard">
+    <img src="/assets/images/MattCircle.png" alt="Matt Paulin">
+    <h2>Matt Paulin</h2>
+    <a href="https://www.linkedin.com/in/mattpaulin">LinkedIn</a>
+  </div>
 
-Kaine Robertson: [LinkedIn](https://www.linkedin.com/in/kainerobertson/){:target="_blank"}{:rel="noopener noreferrer"}
-
-<p/>{:.porthole style="height:200px;"}
+  <div class="facecard">
+    <img src="/assets/images/KaineCircle.png" alt="Kain Robertson">
+    <h2>Kaine Robertson</h2>
+    <a href="https://www.linkedin.com/in/kainerobertson">LinkedIn</a>
+  </div>
+</div>
