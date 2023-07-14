@@ -6,21 +6,11 @@ layout: home
 ---
 
 # City Insights : Big Data for Big Decisions
-<p/>{:.porthole style="height:350px;"}
-<p/>{:.noporthole style="height:350px;"}
+<p/>{:.porthole style="height:400px;"}
+<p/>{:.noporthole style="height:400px;"}
 
-## Contributors
-<div class=".facecontainer">
+## What are we?
+City Insights is a community of data minded folks who are interested in the exploring the data in their cities. We work independently and collaboratively. If you are interested in having us answer your questions, or joining us
 
-</div>
-<div class="facecard">
-  <img src="/assets/images/MattCircle.png" alt="Matt Paulin">
-  <h2>Matt Paulin</h2>
-  <a href="https://www.linkedin.com/in/mattpaulin">LinkedIn</a>
-</div>
-
-<div class="facecard">
-  <img src="/assets/images/KaineCircle.png" alt="Kain Robertson">
-  <h2>Kaine Robertson</h2>
-  <a href="https://www.linkedin.com/in/kainerobertson">LinkedIn</a>
-</div>
+## Contact Us
+{% include contact-form.html %}
