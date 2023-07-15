@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+<p/>
 # City Insights : Big Data for Big Decisions
 <p/>{:.porthole style="height:400px;"}
 <p/>{:.noporthole style="height:400px;"}
